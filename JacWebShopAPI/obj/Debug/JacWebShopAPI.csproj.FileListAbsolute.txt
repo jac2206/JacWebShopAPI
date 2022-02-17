@@ -93,3 +93,7 @@ D:\Codigos\PruebaTecnicaSana\Codigo\JacWebShopAPI\JacWebShopAPI\obj\Debug\JacWeb
 D:\Codigos\PruebaTecnicaSana\Codigo\JacWebShopAPI\JacWebShopAPI\obj\Debug\JacWebShopAPI.csproj.CopyComplete
 D:\Codigos\PruebaTecnicaSana\Codigo\JacWebShopAPI\JacWebShopAPI\obj\Debug\JacWebShopAPI.dll
 D:\Codigos\PruebaTecnicaSana\Codigo\JacWebShopAPI\JacWebShopAPI\obj\Debug\JacWebShopAPI.pdb
+D:\Codigos\PruebaTecnicaSana\Codigo\JacWebShopAPI\JacWebShopAPI\bin\EntityFramework.dll
+D:\Codigos\PruebaTecnicaSana\Codigo\JacWebShopAPI\JacWebShopAPI\bin\EntityFramework.SqlServer.dll
+D:\Codigos\PruebaTecnicaSana\Codigo\JacWebShopAPI\JacWebShopAPI\bin\EntityFramework.xml
+D:\Codigos\PruebaTecnicaSana\Codigo\JacWebShopAPI\JacWebShopAPI\bin\EntityFramework.SqlServer.xml
